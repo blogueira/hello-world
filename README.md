@@ -1,21 +1,17 @@
 
 # hello-world
-short description
-okie my name is blogueira, er actually it is not, but i was told to write about me but i do not want to
-i have never tried github before
-and i hate branches
-i ain't no monkey
-
-and
-
+okie my names blogueira, er actually its not, but i was told to write about me but i don want to<br>
+ive never tried github before<br>
+and i hate branches<br>
+<h3>i aint no monkey</h3><br>
+and<br>
 i love chess
 and ballet
 
-i hate programming
-for some reason i love writing hate and love texts
-
+<del>i hate programming</del>
+<b>for some reason i love writing love&hate texts</b>
 i guess it has to do with the god damn bad english classes we have in brazil
-we never get passed learning the to be verb
-
+it is such a s\* country you wouldnt believe
+oh, you think the girls here are nice huh, you are effing delusional<br>
 it really, really sucks
-effing third world countries
+*effing third world countries*
